@@ -36,12 +36,12 @@ add the following line to your rake file
 
 you then can run 
 
-  rake i
+    rake i
 
 ## credits
 
-https://github.com/exploid/rake-repl
-http://stackoverflow.com/a/22545297/2092206
+ * https://github.com/exploid/rake-repl
+ * http://stackoverflow.com/a/22545297/2092206
 
 ## license 
 
