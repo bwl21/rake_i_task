@@ -3,13 +3,13 @@
 This gem provided a rake taks named 'i' making rake interactive:
 
 
-  it opens a REPL shell with the following commands
+it opens a REPL shell with the following commands
 
-  *help* - provide help
-  *reke* - perform rake tasks
-  *exit* - leave the hell
+  * *help* - provide help
+  * *rake* - perform rake tasks
+  * *exit* - leave the hell
 
-  It provides
+It provides
 
   * TAB completion for the rake tasks
   * History even across sessions
